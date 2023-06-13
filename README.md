@@ -1,4 +1,7 @@
-# github-jekyll-sandbox
+# GitHub Pages and Jekyll
+
+> **Warning**  
+> This repo is a work in progress!
 
 A sandbox for testing out GutHub Pages and Jekyll.
 
