@@ -9,7 +9,7 @@ A sandbox for testing out GutHub Pages and Jekyll.
 
 ## Repo Resources
 
-- [GitHub Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll))
+- [GitHub Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 - [Jekyll](https://jekyllrb.com/)
 
 <a href="https://codeadam.ca">
