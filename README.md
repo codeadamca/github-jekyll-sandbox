@@ -5,6 +5,8 @@
 
 A sandbox for testing out GutHub Pages and Jekyll.
 
+> This page is available to view at [https://jekyll.codeadam.ca](https://jekyll.codeadam.ca).
+
 ---
 
 ## Repo Resources
