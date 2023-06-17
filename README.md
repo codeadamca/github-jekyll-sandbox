@@ -49,18 +49,6 @@ Run this command to install [Bundler](https://bundler.io/) and [Jekyll](https://
 gem install --user-install bundler jekyll
 ```
 
-If you Shell is zsh, run:
-
-```sh
-echo 'export PATH="$HOME/.gem/ruby/3.0.0/bin:$PATH"' >> ~/.zshrc
-```
-
-If your Shell is bash, run:
-
-```sh
-echo 'export PATH="$HOME/.gem/ruby/3.0.0/bin:$PATH"' >> ~/.bash_profile
-```
-
 ## Create a Repo
 
 Create a repo for this project and add the following for your `.gitignore`:
