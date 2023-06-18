@@ -85,7 +85,7 @@ bundle exec jekyll serve --livereload
 
 Open the provided URL in a browser, something like `http://127.0.0.1:4000/`, and start editing!
 
-> This page is available to view at [https://jekyll.codeadam.ca](https://jekyll.codeadam.ca).
+> This repo is available to view at [https://jekyll.codeadam.ca](https://jekyll.codeadam.ca).
 
 ---
 
