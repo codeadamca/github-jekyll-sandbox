@@ -85,6 +85,14 @@ bundle exec jekyll serve --livereload
 
 Open the provided URL in a browser, something like `http://127.0.0.1:4000/`, and start editing!
 
+## Original Theme files
+
+If you wnat to see the original theme files, use this commant:
+
+```sh
+open $(bundle info --path minima) 
+```
+
 > This repo is available to view at [https://jekyll.codeadam.ca](https://jekyll.codeadam.ca).
 
 ---
