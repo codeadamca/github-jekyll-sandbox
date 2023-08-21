@@ -93,7 +93,8 @@ If you wnat to see the original theme files, use this commant:
 open $(bundle info --path minima) 
 ```
 
-> This repo is available to view at [https://jekyll.codeadam.ca](https://jekyll.codeadam.ca).
+> This repo is available to view at:  
+> [https://jekyll.codeadam.ca](https://jekyll.codeadam.ca).
 
 ---
 
