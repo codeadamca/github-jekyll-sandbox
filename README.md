@@ -1,6 +1,6 @@
 # GitHub Pages and Jekyll
 
-> **Warning**  
+> [!Warning]  
 > This repo is a work in progress!
 
 A sandbox for testing out GutHub Pages and [Jekyll](https://jekyllrb.com/).
@@ -31,7 +31,8 @@ If the result is `/bin/bash`, run this commant:
 echo 'export PATH="$HOME/.gem/ruby/X.X.0/bin:$PATH"' >> ~/.bash_profile
 ```
 
-> Note: The recommendation in your terminal may be slightly different than the above command. Use the version in your terminal.
+> [!Note]
+> The recommendation in your terminal may be slightly different than the above command. Use the version in your terminal.
 
 Close your Terminal and reopen it. Check your version of Ruby:
 
